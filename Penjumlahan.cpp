@@ -9,9 +9,5 @@ int main () {
      cout<<"Masukan Angka kedua: ";
      cin>>b;
      cout<<"Hasil penjumlahan adalah: "<<a+b<<endl;
-     cout<<"Hasil pengurangan adalah: "<<a- b<<endl;
-     cout<<"Hasil perkalian adalah: "<<a*b<<endl;
-     cout<<"Hasil pembagian adalah: "<<a/b<<endl;
-     cout<<"Hasil sisa bagi adalah: "<<a % b<<endl;
      return 0;
 }
